@@ -1,4 +1,4 @@
-<h1 id="YesCakes" align="center">🎂 <a href="https://atomicfeast.github.io/YesCakes/">YesCakes</a></h1>
+<h1 id="YesCakes" align="center">🎂 <a href="https://yescakes.vercel.app/">YesCakes</a></h1>
 <div align="center">
   <table>
     <tr>
