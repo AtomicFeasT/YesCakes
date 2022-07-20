@@ -49,7 +49,7 @@ export function Slider({ childToParent }: any) {
           const changeFilterData = (filter: string) => () => childToParent(filter)
           return (
 
-            <div onClick={changeFilterData(db.category)} className="glider-item">
+            <div key={db.category} onClick={changeFilterData(db.category)} className="glider-item">
               <img className="category-image" src={db.img} alt="" />
               <h2 className="category-name">{db.category}</h2>
             </div>
