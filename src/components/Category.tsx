@@ -1,21 +1,21 @@
 import React from 'react';
-import Products from '../db.json';
+import Products from '../json/database.json';
 
 export function Category({ parentToChild }: any) {
 
-  const Category = Products.filter((db: { category: string | null; }) => {
+  const Category = Products.filter((data: { category: string | null; }) => {
 
 
-    return db.category === parentToChild
+    return data.category === parentToChild
 
   })
   return (
     <section className="product-section">
       {
-        Category.map(db => {
+        Category.map(data => {
           return (
-            <React.Fragment key={db.category}>
-              {db.products.map(product => {
+            <React.Fragment key={data.category}>
+              {data.products.map(product => {
                 return (
                   <div key={product.name} className="card-container">
                     <div className="card-content">

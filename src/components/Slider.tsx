@@ -1,4 +1,4 @@
-import Products from '../db.json'
+import Products from '../json/database.json'
 import { FormEventHandler, useState } from 'react';
 
 export function Slider({ childToParent }: any) {
@@ -43,15 +43,15 @@ export function Slider({ childToParent }: any) {
   return (
     <div className="glider-container">
       <div className="glider">
-        {Products.map(db => {
+        {Products.map(data => {
 
 
           const changeFilterData = (filter: string) => () => childToParent(filter)
           return (
 
-            <div key={db.category} onClick={changeFilterData(db.category)} className="glider-item">
-              <img className="category-image" src={db.img} alt="" />
-              <h2 className="category-name">{db.category}</h2>
+            <div key={data.category} onClick={changeFilterData(data.category)} className="glider-item">
+              <img className="category-image" src={data.img} alt="" />
+              <h2 className="category-name">{data.category}</h2>
             </div>
 
           )
