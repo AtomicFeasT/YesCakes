@@ -11,11 +11,11 @@
 }
 
 .card-container {
+  height: 310px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 310px;
 
   // Tablet Adjustments
   @media (min-width: 768px) {
@@ -40,8 +40,8 @@
   gap: 1rem;
 
   background-color: var(--clr-accent-200);
-  padding-block: 2rem;
   border-radius: 0.75rem;
+  padding-block: 2rem;
   padding-inline: 2rem;
 
   // Mobile Adjustments

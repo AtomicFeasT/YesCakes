@@ -5,7 +5,7 @@
     "products": [
       {
         "name": "Cesta Café da Manhã",
-        "description": "Biscoitos <br /> Madeleines <br /> Bolo Café Suco Flores Geleia Manteiga francesa Iogurte Mini brie Granola Salada de frutas Espumante mini Cesta de pães doces Cesta de pães salgados",
+        "description": "Biscoitos - Madeleines - Bolo - Café - Suco - Flores - Geleia - Manteiga Francesa - Iogurte - Mini Brie - Granola - Salada De Frutas - Espumante Mini - Cesta De Pães Doces - Cesta De Pães Salgados.",
         "price": "258,00",
         "image": "https://olaclick.s3.amazonaws.com/companies/products/images/150/54bea46c-503a-4537-937f-7bc4cc049ac8.jpeg"
       }
@@ -17,49 +17,49 @@
     "products": [
       {
         "name": "Pão de Fermentação Natural",
-        "description": "Pão de fermentação natural também conhecido como sourdough, esse pão tem baixo índice glicêmico, proporcionando uma melhor digestibilidade. Peso: 500 grs",
+        "description": "Pão de fermentação natural também conhecido como sourdough. Esse pão tem baixo índice glicêmico, proporcionando uma melhor digestibilidade. <br /> Peso: 500 GRS",
         "price": "26,00",
         "image": "https://olaclick.s3.amazonaws.com/companies/products/images/150/057da570-2dce-4b4e-afd6-45c86b944094.jpeg"
       },
       {
         "name": "Multigrãos",
-        "description": "Pão de fermentação natural com grãos na casca 500 grs",
+        "description": "Pão de fermentação natural com grãos na casca. <br /> 500 GRS",
         "price": "28,00",
         "image": "https://qlickmenu.s3-us-west-1.amazonaws.com/companies/products/4e2e7879-715f-4bce-83e4-b18333caa76a.jpeg"
       },
       {
         "name": "Baguete",
-        "description": "Baguete tradicional francesa Composição: farinha T65, sal marinho, água mineral e levain",
+        "description": "Baguete tradicional francesa. <br /> Composição: Farinha T65, sal marinho, água mineral e levain.",
         "price": "15,00",
         "image": "https://olaclick.s3.amazonaws.com/companies/products/images/150/cd04f689-1007-4679-aab0-f9f5705794f0.jpeg"
       },
       {
         "name": "Pão Português",
-        "description": "Pão enriquecido de azeite. Delicioso pra sanduíches. 350 grs",
+        "description": "Pão enriquecido de azeite. Delicioso para sanduíches. <br /> 350 GRS",
         "price": "22,00",
         "image": "https://olaclick.s3.amazonaws.com/companies/products/images/150/33d9a1f3-6fb7-47a4-a3f6-76dac1ebf89a.jpeg"
       },
       {
         "name": "Pão de Cacau",
-        "description": "Deliciosa massa com cacau 100% gotas de chocolate meio amargo e zestes de laranja. 300 grs",
+        "description": "Deliciosa massa com cacau 100% gotas de chocolate meio amargo e zestes de laranja. <br /> 300 GRS",
         "price": "22,00",
         "image": "https://qlickmenu.s3-us-west-1.amazonaws.com/companies/products/fe552f79-f340-4870-8441-7e29a81cd19c.jpeg"
       },
       {
         "name": "Mineiro",
-        "description": "Pão de fermentação natural com açafrão páprica defumada e linguiça 350 grs",
+        "description": "Pão de fermentação natural com açafrão páprica defumada e linguiça. <br /> 350 GRS",
         "price": "22,00",
         "image": "https://olaclick.s3.amazonaws.com/companies/products/images/150/c188693e-d23e-4750-acbd-f06d70477624.jpeg"
       },
       {
         "name": "Baguete Recheada",
-        "description": "Baguete recheada com nozes e gorgonzola ou parmesão e calabresa",
+        "description": "Baguete recheada com nozes e gorgonzola ou parmesão e calabresa.",
         "price": "17,00",
         "image": "https://olaclick.s3.amazonaws.com/companies/products/images/150/4096a128-a502-40c5-9afb-2b94811d23d6.jpeg"
       },
       {
         "name": "Ciabatta",
-        "description": "Pão extremamente macio perfeito para um sanduíche",
+        "description": "Pão extremamente macio perfeito para um sanduíche.",
         "price": "10,00",
         "image": "https://olaclick.s3.amazonaws.com/companies/products/images/150/42b6aada-7ccf-4cf2-bee7-58caada4ac8c.jpeg"
       }
@@ -71,7 +71,7 @@
     "products": [
       {
         "name": "Brioche Tradicional",
-        "description": "Brioche Fofinho, derrete na boca. Por ser um pão neutro, vai bem com uma geléia ou um hambúrguer. Composição: T45, ovos, manteiga, leite, mel e levain",
+        "description": "Brioche Fofinho, derrete na boca. Por ser um pão neutro, vai bem com uma geléia ou um hambúrguer. <br /> Composição: T45, ovos, manteiga, leite, mel e levain.",
         "price": "40,00",
         "image": "https://qlickmenu.s3-us-west-1.amazonaws.com/companies/products/894f2378-5837-48a2-9a2b-26bb94cf5e46.JPG"
       },
@@ -89,13 +89,13 @@
       },
       {
         "name": "Tortano",
-        "description": "Deliciosa massa de brioche com recheio de calabresa. Consulte sobre outros recheios",
+        "description": "Deliciosa massa de brioche com recheio de calabresa. Consulte sobre outros recheios.",
         "price": "45,00",
         "image": "https://olaclick.s3.amazonaws.com/companies/products/images/150/caebde89-6af8-42a5-8807-c6065cdfe99f.jpeg"
       },
       {
         "name": "Tranca",
-        "description": "Tranca de brioche",
+        "description": "Tranca de brioche.",
         "price": "25,00",
         "image": "https://olaclick.s3.amazonaws.com/companies/products/images/150/e83465a8-05e9-4b62-89b8-4eaad94d52ba.jpeg"
       }
@@ -107,7 +107,7 @@
     "products": [
       {
         "name": "Foccacias",
-        "description": "Sabores variados consulte",
+        "description": "Sabores variados consulte.",
         "price": "30,00",
         "image": "https://olaclick.s3.amazonaws.com/companies/products/images/150/4bce673d-59a6-4ac9-8a60-d9761e5282f7.jpeg"
       }
@@ -120,35 +120,35 @@
       {
         "name": "Bolo de cenoura",
         "category": "Bolos",
-        "description": "Massa fofinha, com deliciosa calda de brigadeiro",
+        "description": "Massa fofinha, com deliciosa calda de brigadeiro.",
         "price": "35,00",
         "image": "https://qlickmenu.s3-us-west-1.amazonaws.com/companies/products/06c9e4a1-8aa2-4769-afa6-f9c74cc6a4fd.jpeg"
       },
       {
         "name": "Bolo de Chocolate",
         "category": "Bolos",
-        "description": "Massa feita com cacau 100% calda de ganache meio amargo",
+        "description": "Massa feita com cacau 100% calda de ganache meio amargo.",
         "price": "35,00",
         "image": "https://qlickmenu.s3-us-west-1.amazonaws.com/companies/products/a211633f-b469-4982-9644-98ac6169497d.jpeg"
       },
       {
         "name": "Bolo de Fubá",
         "category": "Bolos",
-        "description": "Bolo de fubá com Goiabada cremosa. Sem lactose",
+        "description": "Bolo de fubá com Goiabada cremosa. Sem lactose.",
         "price": "35,00",
         "image": "https://qlickmenu.s3-us-west-1.amazonaws.com/companies/products/7c7fb7c5-a8ec-45cd-b855-0e49692e3f11.jpeg"
       },
       {
         "name": "Bolo Bem Casado",
         "category": "Bolos",
-        "description": "Massa de baunilha com canela e cobertura de doce de leite cremoso",
+        "description": "Massa de baunilha com canela e cobertura de doce de leite cremoso.",
         "price": "35,00",
         "image": "https://qlickmenu.s3-us-west-1.amazonaws.com/companies/products/2cb763c8-1216-4873-a4cc-00ca37a47283.jpeg"
       },
       {
         "name": "Bolo de laranja",
         "category": "Bolos",
-        "description": "Bolo de laranja com glacê cítrico",
+        "description": "Bolo de laranja com glacê cítrico.",
         "price": "35,00",
         "image": "https://olaclick.s3.amazonaws.com/companies/products/images/150/43363f91-e318-4071-b8ae-088d7affd82d.jpeg"
       }
@@ -160,19 +160,19 @@
     "products": [
       {
         "name": "Croissant",
-        "description": "Massa crocante desmancha na boca",
+        "description": "Massa crocante desmancha na boca.",
         "price": "10,00",
         "image": "https://qlickmenu.s3-us-west-1.amazonaws.com/companies/products/b5bda321-fc71-4b6e-81a5-2ca4afeaa3cb.jpg"
       },
       {
         "name": "Pain au Chocolat",
-        "description": "Massa crocante com stcks de chocolate meio amargo",
+        "description": "Massa crocante com stcks de chocolate meio amargo.",
         "price": "10,00",
         "image": "https://qlickmenu.s3-us-west-1.amazonaws.com/companies/products/392810f6-c884-499e-aee3-861648111360.jpg"
       },
       {
         "name": "Pastel de Nata",
-        "description": "Massa crocante, recheio cremoso de natas",
+        "description": "Massa crocante, recheio cremoso de natas.",
         "price": "7,00",
         "image": "https://olaclick.s3.amazonaws.com/companies/products/images/150/8836b747-7057-4000-a3d3-c693b35db4cf.jpeg"
       }
@@ -184,25 +184,25 @@
     "products": [
       {
         "name": "Lemon Curd",
-        "description": "Massa crocante a base de manteiga, creme de limão e merengue",
+        "description": "Massa crocante a base de manteiga, creme de limão e merengue.",
         "price": "160,00",
         "image": "https://qlickmenu.s3-us-west-1.amazonaws.com/companies/products/4d9c18ca-9561-4162-ab71-eac4cb62e6a9.JPG"
       },
       {
         "name": "Rouge Curd",
-        "description": "Massa crocante a base de manteiga, creme de Frutas vermelhas e frutas frescas",
+        "description": "Massa crocante a base de manteiga, creme de Frutas vermelhas e frutas frescas.",
         "price": "160,00",
         "image": "https://qlickmenu.s3-us-west-1.amazonaws.com/companies/products/5c8b17fa-ddea-4b05-89df-51dbe02f2e0b.JPG"
       },
       {
         "name": "Cremeaux de Chocolate",
-        "description": "Massa crocante a base de manteiga, ganache de chocolate e frutas",
+        "description": "Massa crocante a base de manteiga, ganache de chocolate e frutas.",
         "price": "160,00",
         "image": "https://qlickmenu.s3-us-west-1.amazonaws.com/companies/products/e7f8e393-b035-401b-bfd5-62a6ff74d3ed.JPG"
       },
       {
         "name": "Pavlova",
-        "description": "Merengue francês, creme patissiere, compota de frutas, chantily e frutas da estação",
+        "description": "Merengue francês, creme patissiere, compota de frutas, chantily e frutas da estação.",
         "price": "160,00",
         "image": "https://qlickmenu.s3-us-west-1.amazonaws.com/companies/products/9eac678a-e9ec-4328-b95c-0f3c072f897a.JPG"
       },
@@ -232,7 +232,7 @@
     "products": [
       {
         "name": "Triffles G",
-        "description": "Sobremesas em camadas, floresta negra, abacaxi com coco, nozes com baba de moça e banofe",
+        "description": "Sobremesas em camadas, floresta negra, abacaxi com coco, nozes com baba de moça e banofe.",
         "price": "240,00",
         "image": "https://qlickmenu.s3-us-west-1.amazonaws.com/companies/products/7eea35bd-edda-4fd2-8d5b-74e170555456.jpeg"
       }
@@ -262,25 +262,25 @@
       },
       {
         "name": "Cookie",
-        "description": "Deliciosa massa amanteigada com bastante chocolate! Embalagem com 3 unidades.",
+        "description": "Deliciosa massa amanteigada com bastante chocolate! <br /> Embalagem com 3 unidades.",
         "price": "24,00",
         "image": "https://olaclick.s3.amazonaws.com/companies/products/images/150/3e56ca77-cadc-4e1d-b22d-bcaa977e105c.jpeg"
       },
       {
         "name": "Choccotine",
-        "description": "Delicioso biscoito italiano com chocolate preto, chocolate branco, nozes, cacau 100%. Embalagem com 100grs",
+        "description": "Delicioso biscoito italiano com chocolate preto, chocolate branco, nozes, cacau 100%. <br /> Embalagem com 100GRS",
         "price": "22,00",
         "image": "https://olaclick.s3.amazonaws.com/companies/products/images/150/2c8002cd-1888-43a2-a7b3-4fb2af3cc455.jpeg"
       },
       {
         "name": "Cookie Recheado",
-        "description": "Cookie recheado de doce de leite ou creme de avelã",
+        "description": "Cookie recheado de doce de leite ou creme de avelã.",
         "price": "12,00",
         "image": "https://olaclick.s3.amazonaws.com/companies/products/images/150/d06fa49d-c6d2-487b-bcc7-3cd466000e27.jpeg"
       },
       {
         "name": "Palha Italiana",
-        "description": "Pâte sable, Cacau e leite condensado",
+        "description": "Pâte sable, cacau e leite condensado.",
         "price": "20,00",
         "image": "https://olaclick.s3.amazonaws.com/companies/products/images/150/71f0ff6a-0f3d-4e06-a137-fc7754ad3903.jpeg"
       }
