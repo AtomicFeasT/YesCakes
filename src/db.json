@@ -5,7 +5,7 @@
     "products": [
       {
         "name": "Cesta Café da Manhã",
-        "description": "Biscoitos \n Madeleines \n Bolo Café Suco Flores Geleia Manteiga francesa Iogurte Mini brie Granola Salada de frutas Espumante mini Cesta de pães doces Cesta de pães salgados",
+        "description": "Biscoitos <br /> Madeleines <br /> Bolo Café Suco Flores Geleia Manteiga francesa Iogurte Mini brie Granola Salada de frutas Espumante mini Cesta de pães doces Cesta de pães salgados",
         "price": "258,00",
         "image": "https://olaclick.s3.amazonaws.com/companies/products/images/150/54bea46c-503a-4537-937f-7bc4cc049ac8.jpeg"
       }

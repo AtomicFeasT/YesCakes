@@ -1,8 +1,16 @@
+import HaikeiWaveTop from "../../public/FooterAssets/HaikeiWaveTop.svg"
+import HaikeiWaveBottom from "../../public/FooterAssets/HaikeiWaveBottom.svg"
+
+import FooterMapPin from "../../public/FooterAssets/FooterMapPin.svg"
+import HeartIcon from "../../public/FooterAssets/FooterHeartIcon.svg"
+import InstagramLogo from "../../public/FooterAssets/FooterInstagramLogo.svg"
+import WhatsappLogo from "../../public/FooterAssets/FooterWhatsappLogo.svg"
+
 export function Footer() {
     return (
         <footer className="footer">
             <div>
-                <img src="/YesCakes/FooterAssets/HaikeiWaveTop.svg" alt="" className="wave-top" />
+                <img src={HaikeiWaveTop} alt="" className="wave-top" />
             </div>
 
            <div className="footer-content">
@@ -14,7 +22,7 @@ export function Footer() {
             
                 <div className="footer-contact">
                     <div className="mappin-container">
-                        <img src="/YesCakes/FooterAssets/FooterMapPin.svg" alt="" className="mappin-image" />
+                        <img src={FooterMapPin} alt="" className="mappin-image" />
                     </div>
                     
                     <div className="address-container">
@@ -26,7 +34,7 @@ export function Footer() {
 
                 <div className="footer-social">
                     <div className="heart-container">
-                        <img src="/YesCakes/FooterAssets/FooterHeartIcon.svg" alt="" className="heart-image" />                    
+                        <img src={HeartIcon} alt="" className="heart-image" />                    
                     </div>
 
                     <div className="social-container">
@@ -34,11 +42,11 @@ export function Footer() {
                     
                         <div className="social-icons-container">
                             <a target="_blank" href="https://www.instagram.com/yescakes/" className="instagram-link">
-                                <img src="/YesCakes/FooterAssets/FooterInstagramLogo.svg" alt="" className="instagram-image" />
+                                <img src={InstagramLogo} alt="" className="instagram-image" />
                             </a>
 
                             <a href="tel:555-555-5555" className="whatsapp-link">
-                                <img src="/YesCakes/FooterAssets/FooterWhatsappLogo.svg" alt="" className="whatsapp-image" />
+                                <img src={WhatsappLogo} alt="" className="whatsapp-image" />
                             </a>
 
                         </div>
@@ -52,7 +60,7 @@ export function Footer() {
             <p className="made-with-love">Made With ❤️ By <a className="love-link" href="https://github.com/AtomicFeasT">Thiago</a> & <a className="love-link" href="https://github.com/Buskik">Rodrigo</a> @2022</p>
 
             <div>
-                <img src="/YesCakes/FooterAssets/HaikeiWaveBottom.svg" alt="" className="wave-bottom" />
+                <img src={HaikeiWaveBottom} alt="" className="wave-bottom" />
             </div>
         </footer>       
     )
