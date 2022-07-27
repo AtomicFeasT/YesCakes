@@ -1,8 +1,8 @@
 // Production Sass
-// import './styles/main.scss'
+import './styles/main.scss'
 
 // Autoprefixed CSS
-import '../public/css/styles.min.css'
+// import '../public/css/styles.min.css'
 
 import { Header } from './components/Header'
 import { Slider } from './components/Slider'
