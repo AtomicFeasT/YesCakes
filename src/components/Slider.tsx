@@ -21,8 +21,8 @@ export function Slider({ childToParent }: any) {
           breakpoint: 445,
           settings: {
             // Set to `auto` and provide item width to adjust to viewport
-            slidesToShow: 'auto',
-            slidesToScroll: 'auto',
+            slidesToShow: '2',
+            slidesToScroll: '2',
             itemWidth: 150,
             duration: 0.25
           }
